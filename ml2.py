@@ -1,4 +1,4 @@
-CV 2 (НА ВСЯКИЙ)
+
 
 import cv2
 import numpy as np
